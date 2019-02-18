@@ -62,6 +62,7 @@ quand un ascenseur n’est pas requis, il reste à l’étage où il se trouve e
     * Après la réponse du client, la carte est éjectée et récupérée par le client
     * les billets sont alors délivrés (ainsi que le ticket)
     * le client récupère enfin les billets et son ticket
+    
 **Modéliser cette situation à l’aide d’un diagramme de séquence en ne prenant en compte que le cas où tout se passe bien. NB : on identifiera les scénarios qui peuvent poser problème en incluant des commentaires dans le diagramme**
 
 - Le déroulement normal d’utilisation d’une caisse de supermarché est le suivant :
@@ -77,6 +78,7 @@ quand un ascenseur n’est pas requis, il reste à l’étage où il se trouve e
       -> carte de crédit : la demande d’autorisation est envoyée avant la saisie
     * la caisse enregistre la vente et l’imprime
     * le caissier donne le ticket de caisse au client
+    
 **Modéliser cette situation à l’aide d’un diagramme de séquence en ne prenant en compte que le cas du paiement en liquide.**
 
 **VENDREDI :**
