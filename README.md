@@ -87,9 +87,13 @@ quand un ascenseur n’est pas requis, il reste à l’étage où il se trouve e
     * la caisse affiche le total des achats
     * le caissier annonce au client le montant total à payer
     * le client choisit son mode de paiement
+    
       -> liquide : le caissier encaisse l’argent, la caisse indique le montant à rendre au client
+    
       -> chèque : le caissier note le numéro de pièce d’identité du client
+      
       -> carte de crédit : la demande d’autorisation est envoyée avant la saisie
+   
     * la caisse enregistre la vente et l’imprime
     * le caissier donne le ticket de caisse au client
     
