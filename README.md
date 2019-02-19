@@ -106,6 +106,8 @@ Intervention d'Aurélie sur l'analyse des besoins
 
 Kahoot sur les diagrammes de classe (quiz)
 
+Intervention de Mr Jean-Charles DEVEZE (Envoi)
+
 **Ressources**
 
 [Uml classes Par les exemples](https://fr.slideshare.net/MireilleBF/uml-classes-par-les-exemples)
